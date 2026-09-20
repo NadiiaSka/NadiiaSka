@@ -1,6 +1,6 @@
 
  <h1 align="center">Hi 👋, I'm Nadia Sivak</h1>
- <h3 align="center">Senior Test Automation Engineer | AI quality engineering | Playwright + TypeScript | CI/CD </h3>
+ <h3 align="center">Senior SDET & QA | Playwright + TypeScript | AI driven testing | CI/CD </h3>
 
  <p align="center">
    <a href="https://linkedin.com/in/nadiasivak/" target="_blank">
