@@ -64,3 +64,41 @@
 <p>
   <img src="https://img.shields.io/badge/Allure-FF5A1F?style=for-the-badge&logo=allure&logoColor=white" alt="Allure" />
 </p>
+
+<hr />
+
+### 🚀 Featured Projects:
+
+#### 🎭 [Playwright Automation Framework](https://github.com/NadiiaSka/playwright-automation-framework)
+
+> A production-style, scalable testing framework for a wide range of web applications.
+
+It combines component, integration, API, browser, accessibility, security, performance, and visual testing with CI workflows and reporting. Its reusable test structure and tooling provide a starting point for a new application; adapting it involves replacing the current app-specific tests, selectors, API assumptions, and visual baselines.
+
+<a href="https://github.com/NadiiaSka/playwright-automation-framework/actions/workflows/quality-gate.yml">
+  <img src="https://github.com/NadiiaSka/playwright-automation-framework/actions/workflows/quality-gate.yml/badge.svg" alt="Quality Gate" />
+</a>
+
+**Tech Stack:**
+
+<p>
+  <a href="https://playwright.dev/"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="https://vitest.dev/"><img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" /></a>
+  <a href="https://testing-library.com/"><img src="https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="Testing Library" /></a>
+  <a href="https://github.com/dequelabs/axe-core"><img src="https://img.shields.io/badge/axe--core-6B3FA0?style=for-the-badge&logo=deque&logoColor=white" alt="axe-core" /></a>
+  <a href="https://grafana.com/docs/k6/latest/"><img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" alt="k6" /></a>
+  <a href="https://allurereport.org/"><img src="https://img.shields.io/badge/Allure-FF5A1F?style=for-the-badge&logo=allure&logoColor=white" alt="Allure Report" /></a>
+  <a href="https://eslint.org/"><img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" /></a>
+  <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" /></a>
+</p>
+
+<hr />
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/nadiiaska">
+    <img src="https://streak-stats.demolab.com/?user=nadiiaska&theme=tokyonight&hide_border=true" alt="Nadia Sivak's GitHub streak statistics" />
+  </a>
+</p>
