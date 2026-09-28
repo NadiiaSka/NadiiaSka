@@ -1,6 +1,8 @@
  <h1 align="center">Hi 👋, I'm Nadia Sivak</h1>
  <h3 align="center">Senior SDET & QA | Playwright + TypeScript | AI driven testing | CI/CD </h3>
 
+ <p align="center"><strong>Building reliable software through automation, AI-assisted testing, and quality engineering.</strong></p>
+
  <p align="center">
    <a href="https://linkedin.com/in/nadia-sivak/" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -14,7 +16,7 @@
  </p>
 
  <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=yousufwaqar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+   <img src="https://komarev.com/ghpvc/?username=nadiiaska&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
  </p>
 
 ---
@@ -67,7 +69,7 @@
 
 <hr />
 
-### 🚀 Featured Projects:
+### 🚀 Featured Projects
 
 #### 🎭 [Playwright Automation Framework](https://github.com/NadiiaSka/playwright-automation-framework)
 
@@ -101,4 +103,16 @@ It combines component, integration, API, browser, accessibility, security, perfo
   <a href="https://github.com/nadiiaska">
     <img src="https://streak-stats.demolab.com/?user=nadiiaska&theme=tokyonight&hide_border=true" alt="Nadia Sivak's GitHub streak statistics" />
   </a>
+</p>
+
+<hr />
+
+<p align="center">
+  <strong>Let's build reliable software.</strong><br />
+  Open to conversations about SDET, test architecture, AI quality, and CI/CD.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/nadia-sivak/">Connect on LinkedIn</a> ·
+  <a href="mailto:nadiia.syvakivska.au@gmail.com">Send an email</a>
 </p>
