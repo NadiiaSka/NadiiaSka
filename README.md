@@ -16,7 +16,7 @@
  </p>
 
  <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=nadiiaska&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+   <img src="https://visitor-badge.laobi.icu/badge?page_id=NadiiaSka.visitor-badge&left_text=Profile%20Views&left_color=%23595959&right_color=%23595959&logo=github&radius=4&height=30" alt="Profile views" />
  </p>
 
 ---
